@@ -11,11 +11,13 @@ import Footer from './Components/Footer/Footer'
 import Dashboard from './Components/Dashboard/Dashboard'
 import Trend from './Components/Trend/Trend'
 import Content from './Components/Content/Content'
+import Loader from './Components/Heading/Heading'
 const App = () => {
   return (
     <div>
       <Navbar/>
       <Hero />
+      <Loader />
       <Dashboard />
       <Trend />
       <Content />
