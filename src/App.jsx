@@ -12,6 +12,7 @@ import Dashboard from './Components/Dashboard/Dashboard'
 import Trend from './Components/Trend/Trend'
 import Content from './Components/Content/Content'
 import Loader from './Components/Heading/Heading'
+import Chat from './Components/Chat/Chat'
 const App = () => {
   return (
     <div>
@@ -29,7 +30,9 @@ const App = () => {
       {/* <Campus /> */}
       <Title subTitle='TESTIMONIALS' title='what Creators Says' />
       <Testimonial />
+      <Chat />
       <Title subTitle='Contact Us' title='Get in Touch' />
+      
       <Contact />
       <Footer />
 
