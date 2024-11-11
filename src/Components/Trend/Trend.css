@@ -1,0 +1,123 @@
+/* General Styling */
+
+  
+  .trend-container {
+  
+    padding: 20px;
+    color: #34495e;
+    background-color: #f4f6f9;
+  }
+  
+  /* Header Styling */
+  .trend-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .trend-header h1 {
+    font-size: 2.2em;
+    color: #2c3e50;
+  }
+  
+  .trend-header p {
+    font-size: 1em;
+    color: #7f8c8d;
+  }
+  
+  /* Hashtag Section */
+  .hashtag-section {
+    margin-top: 20px;
+  }
+  
+  .hashtags {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .hashtag-card {
+    width: 180px;
+    background: linear-gradient(135deg, #1abc9c, #16a085);
+    color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .hashtag-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  }
+  
+  .growth-rate {
+    font-size: 0.9em;
+    color: #e6f2ef;
+  }
+  
+  /* Demographics Section */
+  .demographics-section {
+    margin-top: 30px;
+  }
+  
+  .demographics {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .demographic-card {
+    width: 180px;
+    background: linear-gradient(135deg, #3498db, #2980b9);
+    color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .demographic-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Growth Section */
+  .growth-section {
+    margin-top: 30px;
+  }
+  
+  .growth-metrics {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+
+  }
+  
+  .metric-card {
+    width: 180px;
+    background: linear-gradient(135deg, #e74c3c, #c0392b);
+    color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .metric-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  }
+
+.SUBHEAD{
+  text-align: center;
+  padding: 20px;
+}
+.title{
+  color: #1abc9c;
+}

@@ -39,7 +39,7 @@ const Testimonial = () => {
                   <span>Delhi,India</span>
                 </div>
               </div>
-              <p>Choosing to pursue my degree at CodeCraft was One of the best decisions I've ever made. The Supporive community ,state of the art facilities and commitment to acedemic excellence have truly exceeded my expectations.
+              <p>TrendWave has completely transformed the way we approach social media. The real-time analytics make it easy to see what’s working and adjust our strategy on the go. We’ve been able to double our engagement by understanding exactly what our audience loves. It’s like having a team of social media experts right at our fingertips!"
 
               </p>
             </div>
@@ -54,7 +54,7 @@ const Testimonial = () => {
                   <span>Delhi,India</span>
                 </div>
               </div>
-              <p>Choosing to pursue my degree at CodeCraft was One of the best decisions I've ever made. The Supporive community ,state of the art facilities and commitment to acedemic excellence have truly exceeded my expectations.
+              <p>"As a small business, we always struggled with complex analytics tools that were hard to understand. TrendWave is so user-friendly, yet incredibly powerful. Now, we can see the trends and numbers that actually matter, helping us make smarter decisions and connect more effectively with our audience. Highly recommend it to anyone looking to boost their social impact."
 
               </p>
             </div>
@@ -69,7 +69,7 @@ const Testimonial = () => {
                   <span>Delhi,India</span>
                 </div>
               </div>
-              <p>Choosing to pursue my degree at CodeCraft was One of the best decisions I've ever made. The Supporive community ,state of the art facilities and commitment to acedemic excellence have truly exceeded my expectations.
+              <p>"TrendWave doesn’t just give you numbers—it gives you insight. The real-time tracking and performance metrics have been invaluable in shaping our content strategy. We love how easy it is to track our top-performing posts and understand why they work. TrendWave has become an essential part of our toolkit."
 
               </p>
             </div>
@@ -84,7 +84,7 @@ const Testimonial = () => {
                   <span>Delhi,India</span>
                 </div>
               </div>
-              <p>Choosing to pursue my degree at CodeCraft was One of the best decisions I've ever made. The Supporive community ,state of the art facilities and commitment to acedemic excellence have truly exceeded my expectations.
+              <p>"As a content creator, it’s crucial to stay ahead of trends, and TrendWave makes it effortless. I can now monitor my content’s performance live, see what my audience engages with most, and refine my approach. Thanks to TrendWave, I’ve seen a significant increase in followers and interactions, and I feel more connected to my community than ever."
 
               </p>
             </div>

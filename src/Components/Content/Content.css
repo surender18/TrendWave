@@ -1,0 +1,127 @@
+
+  body {
+    background-color: #f4f6f9;
+  }
+  
+  .content-container {
+    margin: 150px auto ;
+    
+    max-width: 800px;
+    /* margin: 0 auto; */
+    padding: 20px;
+    text-align: center;
+    color: #34495e;
+  }
+  
+  /* Header styling */
+  .content-header {
+    margin-bottom: 20px;
+  }
+  
+  .content-header h1 {
+    font-size: 2em;
+    color: #2c3e50;
+  }
+  
+  .content-header p {
+    font-size: 1em;
+    color: #7f8c8d;
+  }
+  
+  /* Input Form styling */
+  .content-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  .content-form input[type="url"] {
+    width: 100%;
+    max-width: 500px;
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border 0.3s;
+  }
+  
+  .content-form input[type="url"]:focus {
+    border-color: #1abc9c;
+    outline: none;
+  }
+  
+  .content-form button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background: linear-gradient(135deg, #1abc9c, #16a085);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.3s;
+  }
+  
+  .content-form button:hover {
+    background: #16a085;
+    transform: scale(1.05);
+  }
+  
+  /* Performance Data styling */
+  .performance-data {
+    margin-top: 20px;
+    color: #34495e;
+  }
+  
+  .performance-data h2 {
+    font-size: 1.5em;
+    color: #2c3e50;
+    margin-bottom: 15px;
+  }
+  
+  .metrics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .metric-card {
+    background: linear-gradient(135deg, #ffffff, #f1f1f1);
+    width: 150px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .metric-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .metric-card h3 {
+    font-size: 1.2em;
+    color: #2c3e50;
+  }
+  
+  .metric-card p {
+    font-size: 1.5em;
+    color: #1abc9c;
+    font-weight: bold;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .content-form {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .metrics {
+      flex-direction: column;
+    }
+  }
+  

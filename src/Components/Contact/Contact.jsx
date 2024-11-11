@@ -39,7 +39,7 @@ const Component = () => {
             <h3>Send us a message <img src={msg_icon} alt="" /></h3>
             <p>Feel free to reach out through contact form.</p>
             <ul>
-                <li><img src={mail_icon} alt="" />Contact@codecraft.in</li>
+                <li><img src={mail_icon} alt="" />Contact@trendwave.in</li>
                 <li><img src={phone_icon} alt="" />+91 999995555</li>
                 <li><img src={location_icon} alt="" />18,Rajouri Garden ,Delhi</li>
             </ul>
